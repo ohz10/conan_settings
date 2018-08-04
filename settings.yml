@@ -29,6 +29,7 @@ os:
     tvOS:
         version: ["11.0"]
     FreeBSD:
+    OpenBSD:
     SunOS:
     Arduino:
         board: ANY
