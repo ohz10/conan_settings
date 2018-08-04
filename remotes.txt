@@ -1,0 +1,2 @@
+artifactory http://artifactory:8081/artifactory/api/conan/conan-local False
+bincrafters https://api.bintray.com/conan/bincrafters/public-conan True
