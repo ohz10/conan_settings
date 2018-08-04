@@ -1,0 +1,10 @@
+[settings]
+os=Linux
+os_build=Linux
+os.distro="CentOS release 6.10 (Final)"
+arch=x86_64
+arch_build=x86_64
+compiler=gcc
+compiler.version=4.4
+compiler.libcxx=libstdc++
+build_type=Release

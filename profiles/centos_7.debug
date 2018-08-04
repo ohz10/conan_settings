@@ -1,0 +1,10 @@
+[settings]
+os=Linux
+os_build=Linux
+os.distro="CentOS Linux release 7.5.1804 (Core)"
+arch=x86_64
+arch_build=x86_64
+compiler=gcc
+compiler.version=4.8
+compiler.libcxx=libstdc++
+build_type=Debug
