@@ -4,5 +4,5 @@ This repository holds settings to be shared throughout our enterprise.
 
 ## Installation
 
-    conan config install --type git http://gitlab:8080/demo/conan_settings.git
+    conan config install --type git https://github.com/paxos1977/conan_settings.git
 
